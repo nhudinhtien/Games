@@ -1,0 +1,5 @@
+﻿  Source.cpp
+F:\daihoc\NMLT\Test\Games\Games\Header.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\daihoc\NMLT\Test\Games\Games\Header.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+F:\daihoc\NMLT\Test\Games\Games\Source.cpp(52,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Games.vcxproj -> F:\daihoc\NMLT\Test\Games\x64\Debug\Games.exe
